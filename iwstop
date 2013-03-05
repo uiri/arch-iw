@@ -1,0 +1,4 @@
+#!/bin/sh
+
+pkill wpa_supplicant
+pkill dhcpcd
